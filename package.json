@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/zhuzihan/zhuzihan.github.io"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/zhuzihan/zhuzihan.github.io"
   },
   "homepage": "https://zhuzihan.github.io/",
   "devDependencies": {
